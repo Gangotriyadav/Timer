@@ -1,8 +1,11 @@
 setInterval (() => {
     let day = new Date ();
-    hour = day.getHours() * 30;
-    minute = day.getMinutes () * 6;
-    second = day.getSeconds () * 6;
+    let hour = day.getHours() % 12 < 10 ? `0${day.getHours() % 12}` : day.getHours()%12;
+    let minute = day.getMinutes() < 10 ? `0${day.getMinutes()}` : day.getMinutes() ;
+    let second = day.getSeconds() < 10 ? `0${day.getSeconds()}` : day.getSeconds() ;
+    document.getElementById('time').innerHTML = `${hour}:${minute}:${second}`;
 }, 1000);
 
-const clock = document.getElementById('time');
+
+
+
