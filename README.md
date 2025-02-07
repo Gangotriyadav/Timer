@@ -31,7 +31,7 @@ JavaScript: Timer functionality
 5️⃣ Click Reset to reset the timer.
 
 **Clone: - **
-git clone https://github.com/Gangotriyadav/Timer-Project.git
+git clone https://github.com/Gangotriyadav/Timer.git
 
 
 
