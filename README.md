@@ -17,7 +17,9 @@ Timer-Project/
 │── style.css        # CSS file for styling
 │── script.js        # JavaScript file for timer functionality
 │── README.md        # Project Documentation
+
 ⚙️ Technologies Used
+
 HTML: Structure of the timer
 CSS: Styling and layout
 JavaScript: Timer functionality
@@ -28,24 +30,8 @@ JavaScript: Timer functionality
 4️⃣ Click Pause to pause the timer.
 5️⃣ Click Reset to reset the timer.
 
-📸 Screenshot
-(If you have an image, could you upload it to the repository and provide the link here?)
-
-MD
-Copy
-Edit
-![Timer Project Screenshot](image-link-here)
-🔗 Live Demo
-(If deployed, add the link here.)
-🔗 Live Demo
-
-📥 Installation
-1️⃣ Clone the repository:
-
-bash
-Copy
-Edit
+**Clone: - **
 git clone https://github.com/Gangotriyadav/Timer-Project.git
-2️⃣ Open index.html in your browser.
+
 
 
